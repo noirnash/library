@@ -23,7 +23,7 @@ local buttonData = {
    ["Adopt Me"] = "https://raw.githubusercontent.com/KuniX99/AdoptMe/refs/heads/main/main.lua",
 
    -- SAB (Steal A Brainrot)
-   ["Steal A Brainrot"] = "https://api.rubis.app/v2/scrap/lGaceSg3xt9DZ22o/raw",
+   ["Steal A Brainrot"] = "https://raw.githubusercontent.com/KuniX99/StealABrainrot/refs/heads/main/main.lua",
 
    ["Ronix Hub"] = "https://api.luarmor.net/files/v3/loaders/b44706178039e9b88c4d768d4d8b012f.lua",
    ["Thunder Z Hub"] = "https://raw.githubusercontent.com/ThundarZ/Welcome/refs/heads/main/Main/GaG/Main.lua",
